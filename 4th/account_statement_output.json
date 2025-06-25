@@ -1,0 +1,351 @@
+{
+  "account_number": "U000721",
+  "currency": "USD",
+  "statement_date": "08-Jan-2024",
+  "contact": "Chloe.Day@Ardonaghspecialty.com",
+  "account_name": "Mosaic Syndicate Services Ltd",
+  "entries": [
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -471.33,
+      "net": -433.62
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Fidelity Computer Crime And Bankers",
+      "due_date": "15-Nov-2023",
+      "gross": -4.71,
+      "net": -4.47
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Policies | Original Premium",
+      "due_date": "15-Nov-2023",
+      "gross": -9.43,
+      "net": -8.96
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Policies | Original Premium",
+      "due_date": "15-Nov-2023",
+      "gross": -80.13,
+      "net": -76.12
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Policies | Original Premium",
+      "due_date": "15-Nov-2023",
+      "gross": -3732.92,
+      "net": -3546.27
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Policies | Original Premium",
+      "due_date": "15-Nov-2023",
+      "gross": -11868.05,
+      "net": -11274.65
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Policies | Original Premium",
+      "due_date": "15-Nov-2023",
+      "gross": -6692.87,
+      "net": -6572.4
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Policies | Original Premium",
+      "due_date": "15-Nov-2023",
+      "gross": -98.98,
+      "net": -94.03
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -75.41,
+      "net": -71.64
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -15643.4,
+      "net": -14861.23
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -14.14,
+      "net": -13.43
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -1131.19,
+      "net": -1074.63
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -80.13,
+      "net": -76.12
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -174.39,
+      "net": -165.67
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -372.35,
+      "net": -398.41
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -542.03,
+      "net": -514.93
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -1956.01,
+      "net": -1858.21
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -127.26,
+      "net": -120.9
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -315.79,
+      "net": -300.0
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Prof Indty E&O For Fin Institutions Excl USA",
+      "due_date": "15-Nov-2023",
+      "gross": -8710.15,
+      "net": -8274.64
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Prof Indty E&O For Fin Institutions Excl USA",
+      "due_date": "15-Nov-2023",
+      "gross": -27692.12,
+      "net": -26307.51
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Prof Indty E&O For Fin Institutions Excl USA",
+      "due_date": "15-Nov-2023",
+      "gross": -406.91,
+      "net": -386.56
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Prof Indty E&O For Fin Institutions Excl USA",
+      "due_date": "15-Nov-2023",
+      "gross": -868.82,
+      "net": -929.64
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Prof Indty E&O For Fin Institutions Excl USA",
+      "due_date": "15-Nov-2023",
+      "gross": -186.96,
+      "net": -177.61
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -1264.73,
+      "net": -1201.49
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -22.0,
+      "net": -20.9
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -32.99,
+      "net": -31.34
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -2639.44,
+      "net": -2507.47
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -186.96,
+      "net": -177.61
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -15616.69,
+      "net": -15335.59
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -1099.77,
+      "net": -1011.79
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -11.0,
+      "net": -10.45
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -4564.03,
+      "net": -4335.83
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -296.94,
+      "net": -282.09
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -736.84,
+      "net": -700.0
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -230.95,
+      "net": -219.4
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -175.96,
+      "net": -167.16
+    },
+    {
+      "invoice_number": "IN0041627-0001-PM-01",
+      "assured": "CITCO III Limited",
+      "reference": "PFI2170523AA",
+      "insurance_type": "Civil Liability Insurance",
+      "due_date": "15-Nov-2023",
+      "gross": -36501.25,
+      "net": -34676.19
+    }
+  ]
+}

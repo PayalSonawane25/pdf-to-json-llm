@@ -1,0 +1,17 @@
+{
+  "account_number": "OSC03635",
+  "currency": "GBP",
+  "statement_date": "03-Apr-2025",
+  "transactions": [
+    {
+      "transaction_number": "FN2318074",
+      "installment_number": "0001",
+      "transaction_type": "AP",
+      "status": "",
+      "effective_date": "02-Jun-2023",
+      "assured": "Sherwood Topco Ltd",
+      "description": "CY - CYBER SECURITY DATA AND PRIVACY BREACH | EEndorsement No. 002 - Additional Premium - Policy Extension",
+      "amount": -2580.32
+    }
+  ]
+}

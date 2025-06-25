@@ -1,0 +1,21 @@
+{
+  "Premium_Closing": "CRN0000860487",
+  "Texel_Reference": "B1084202300019000/008",
+  "Your_Reference": "PPR2814423AA---",
+  "Obligor": "Portfolio",
+  "Guarantor": "Not Applicable",
+  "Borrower": "Not Applicable",
+  "Client_Legal_Entity": "Africa Finance Corporation",
+  "Coverage_Requested": "Non-Payment Insurance",
+  "Facility": "CF",
+  "Policy_Coverage_Period": "01/Jan/2023 to 01/Jan/2028",
+  "Document_Date": "07/Jan/2025",
+  "Due_Date": "15/Feb/2025",
+  "Base_Premium": 35625.0,
+  "Tax": 0.0,
+  "Commitment_and_Other_Fees": 0.0,
+  "Brokerage": -7125.0,
+  "Deposit_Premium": 28500.0,
+  "Adjustment_Premium": 0.0,
+  "TOTAL": 28500.0
+}
